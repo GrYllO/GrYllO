@@ -1,5 +1,5 @@
 > [!NOTE]
-> This profile is being built at runtime. The estimated time for completion is the end of all learning process...[^1]
+> Dev profiling at runtime. The estimated remaining time is bound to the learning process...[^1]
 
 ## Stats over Last Year
 *powered by [wakatime.com](https://wakatime.com/)*
