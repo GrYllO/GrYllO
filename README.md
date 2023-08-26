@@ -1,6 +1,16 @@
-> [ NOTICE ] This profile is being built at runtime. The estimated time for completion is the end of all learning process...[^1]
+> [!NOTE]
+> This profile is being built at runtime. The estimated time for completion is the end of all learning process...[^1]
 
-[![GrYllO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GrYllO)](https://github.com/anuraghazra/github-readme-stats)
+## Stats over Last Year
+*powered by [wakatime.com](https://wakatime.com/)*
+
+### Languages
+
+![Languages over Last Year](https://wakatime.com/share/@GrYllO/675f4877-3b8a-4ee7-a009-78caaea6bc51.svg)
+
+### Coding Activity
+
+![Coding Activity over Last Year](https://wakatime.com/share/@GrYllO/c4788de6-1e79-46b1-9c91-7fbf7032dc5b.svg)
 
 [^1]: ...That is to say, never. 😉
 
