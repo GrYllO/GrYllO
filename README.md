@@ -4,7 +4,7 @@
 ## Stats over Last Year
 *powered by [wakatime.com](https://wakatime.com/)*
 
-[![wakatime](https://wakatime.com/badge/user/9161d7c1-516d-4e94-8f1a-d4b677aeab7c.svg)](https://wakatime.com/@9161d7c1-516d-4e94-8f1a-d4b677aeab7c)
+[![Coding Time over Last Year](https://wakatime.com/badge/user/9161d7c1-516d-4e94-8f1a-d4b677aeab7c.svg)](https://wakatime.com/@9161d7c1-516d-4e94-8f1a-d4b677aeab7c)
 
 ### Languages
 
